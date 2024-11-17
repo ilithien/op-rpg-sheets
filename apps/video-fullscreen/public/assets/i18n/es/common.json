@@ -1,0 +1,18 @@
+{
+  "common": {
+    "system": "Sistema",
+    "send": "Enviar"
+  },
+  "tabs": {
+    "biography": {
+      "title": "Biografía"
+    }
+  },
+  "clans": {
+    "hecata": "Hecata",
+    "ventrue": "Ventrue",
+    "banuhaqim": "Banu Haqim",
+    "nosferatu": "Nosferatu",
+    "malkavian": "Malkavian"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "vtm": {
+    "disciplines": {
+      "auspex": {
+        "name": "Auspex",
+        "powers": {
+          "heightened_senses": "Sentidos Agudizados",
+          "seen_the_unseen": "Sentir lo invisible",
+          "premonition": "Premonición",
+          "scry_soul": "Escrudiñar el alma",
+          "share_the_senses": "Compartir los sentidos"
+        }
+      },
+      "celerity": {
+        "name": "Celeridad",
+        "powers": {
+          "fleetness": "Presteza",
+          "rapid_reflexes": "Reflejos rápidos"
+        }
+      },
+      "oblivion": {
+        "name": "Olvido",
+        "powers": {
+          "ashes_to_ashes": "Cenizas a las cenizas",
+          "the_binding_fetter": "The Binding Fetter"
+        }
+      },
+      "rituals": {
+        "name": "Rituales",
+        "powers": {
+          "summon_spirit": "Invocar espíritu",
+          "gift_of_false_life": "Obsequio de falsa vida",
+          "clinging_of_the_insect": "Adherencia del insecto",
+          "craft_bloodstone": "Crear piedrasangre"
+        }
+      },
+      "obfuscate": {
+        "name": "Ofuscación",
+        "powers": {
+          "cloak_of_shadows": "Capa de sombras",
+          "silence_of_death": "Silencio de la muerte",
+          "unseen_passage": "Paso invisible",
+          "ghost_in_the_machine": "Fantasma en la máquina"
+        }
+      },
+      "potence": {
+        "name": "Potencia",
+        "powers": {
+          "soaring_leap": "Salto vertiginoso",
+          "prowess": "Bravura"
+        }
+      },
+      "blood_sorcery": {
+        "name": "Hechicería de Sangre",
+        "powers": {
+          "corrosive_vitae": "Vitae corrosiva"
+        }
+      },
+      "fortitude": {
+        "name": "Fortaleza",
+        "powers": {
+          "unswayable_mind": "Mente imperturbable",
+          "resilience": "Resiliencia"
+        }
+      },
+      "presence": {
+        "name": "Presencia",
+        "powers": {
+          "awe": "Fascinación"
+        }
+      },
+      "dominate": {
+        "name": "Dominación",
+        "powers": {
+          "cloud_memory": "Nublar la memoria",
+          "compel": "Compeler",
+          "mesmerize": "Mesmerismo",
+          "forgetful_mind": "Mente olvidadiza"
+        }
+      }
+    }
+  }
+}

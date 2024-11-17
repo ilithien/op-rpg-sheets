@@ -1,0 +1,433 @@
+[
+  {
+    "name": "Enrique Diaz",
+    "id": "enrique",
+    "clan": "hecata",
+    "predatorType": "Montero",
+    "generation": 12,
+    "humanity": 6,
+    "attributes": {
+      "strength": { "label": "Fuerza", "value": 1 },
+      "dexerity": { "label": "Destreza", "value": 2 },
+      "resistance": { "label": "Resistencia", "value": 3 },
+      "charisma": { "label": "Carisma", "value": 4 },
+      "manipulation": { "label": "Manipulación", "value": 2 },
+      "composture": { "label": "Compostura", "value": 2 },
+      "intelligence": { "label": "Inteligence", "value": 2 },
+      "wits": { "label": "Astucia", "value": 3 },
+      "resolution": { "label": "Resolución", "value": 3 }
+    },
+    "abilities": {
+      "athletics": { "label": "Atletismo", "value": 1 },
+      "brawl": { "label": "Pelea", "value": 0 },
+      "craft": { "label": "Artesanía", "value": 0 },
+      "driving": { "label": "Conducir", "value": 1 },
+      "firearms": { "label": "Armas de fuego", "value": 0 },
+      "larceny": { "label": "Latrocinio", "value": 0 },
+      "melee": { "label": "Pelea con armas", "value": 1 },
+      "stealth": { "label": "Sigilo", "value": 1 },
+      "survival": { "label": "Supervivencia", "value": 1 },
+      "animalKin": { "label": "Trato con animales", "value": 0 },
+      "etiquette": { "label": "Etiqueta", "value": 1 },
+      "insight": { "label": "Perspicacia", "value": 2 },
+      "intimidation": { "label": "Intimidación", "value": 2 },
+      "leadership": { "label": "Liderazgo", "value": 1 },
+      "performance": { "label": "Interpretación", "value": 2 },
+      "persuasion": { "label": "Persuasión", "value": 0 },
+      "streetwise": { "label": "Callejeo", "value": 0 },
+      "subterfuge": { "label": "Subterfugio", "value": 1 },
+      "academics": { "label": "Academicismo", "value": 1 },
+      "awareness": { "label": "Consciencia", "value": 2 },
+      "finance": { "label": "Finanzas", "value": 2 },
+      "investigation": { "label": "Investigacion", "value": 2 },
+      "medicine": { "label": "Medicina", "value": 0 },
+      "occult": { "label": "Ocultismo", "value": 2 },
+      "politics": { "label": "Política", "value": 1 },
+      "science": { "label": "Ciencia", "value": 0 },
+      "technology": { "label": "Tecnología", "value": 1 }
+    },
+    "disciplines": {
+      "auspex": {
+        "powers": [
+          {
+            "name": "seen_the_unseen",
+            "level": 1
+          }
+        ]
+      },
+      "oblivion": {
+        "powers": [
+          {
+            "name": "ashes_to_ashes",
+            "level": 1
+          },
+          {
+            "name": "the_binding_fetter",
+            "level": 2
+          }
+        ]
+      },
+      "fortitude": {
+        "powers": [
+          {
+            "name": "unswayable_mind",
+            "level": 1
+          }
+        ]
+      },
+      "obfuscate": {
+        "powers": [
+          {
+            "name": "cloak_of_shadows",
+            "level": 1
+          }
+        ]
+      },
+      "rituals": {
+        "powers": [
+          {
+            "name": "summon_spirit",
+            "level": 2
+          },
+          {
+            "name": "gift_of_false_life",
+            "level": 1
+          }
+        ]
+      }
+    },
+    "biography": "Enrique nació en el interior norte de España. De origen humilde, aprendió desde niño el valor del respeto, el esfuerzo y la constancia. Tiene un carácter simpático y don de gentes. Gracias a su disciplina y espíritu de superación, comenzó su carrera profesional en Madrid cosechando algunos éxitos. Se mudó al extranjero para aceptar un empleo en la firma internacional Grazia & Forza (G&F). Esta decisión marcaría su destino de forma trágica . El regreso de Enrique a la capital española trae consigo un nuevo propósito: por mandato del misterioso clan Hecata al que ahora pertenece, debe tejer vínculos con la Camarilla local. Sin embargo, él sospecha que hay motivaciones ocultas detrás de su misión, secretos que aún no le han sido revelados…"
+  },
+  {
+    "name": "Farid",
+    "id": "farid",
+    "clan": "banuhaqim",
+    "predatorType": "Gato Callejero",
+    "generation": 12,
+    "humanity": 5,
+    "attributes": {
+      "strength": { "label": "Fuerza", "value": 2 },
+      "dexerity": { "label": "Destreza", "value": 4 },
+      "resistance": { "label": "Resistencia", "value": 3 },
+      "charisma": { "label": "Carisma", "value": 2 },
+      "manipulation": { "label": "Manipulación", "value": 1 },
+      "composture": { "label": "Compostura", "value": 3 },
+      "intelligence": { "label": "Inteligence", "value": 2 },
+      "wits": { "label": "Astucia", "value": 3 },
+      "resolution": { "label": "Resolución", "value": 2 }
+    },
+    "abilities": {
+      "athletics": { "label": "Atletismo", "value": 2 },
+      "brawl": { "label": "Pelea", "value": 1 },
+      "craft": { "label": "Artesanía", "value": 0 },
+      "driving": { "label": "Conducir", "value": 1 },
+      "firearms": { "label": "Armas de fuego", "value": 1 },
+      "larceny": { "label": "Latrocinio", "value": 1 },
+      "melee": { "label": "Pelea con armas", "value": 3 },
+      "stealth": { "label": "Sigilo", "value": 3 },
+      "survival": { "label": "Supervivencia", "value": 1 },
+      "animalKin": { "label": "Trato con animales", "value": 0 },
+      "etiquette": { "label": "Etiqueta", "value": 0 },
+      "insight": { "label": "Perspicacia", "value": 1 },
+      "intimidation": { "label": "Intimidación", "value": 1 },
+      "leadership": { "label": "Liderazgo", "value": 0 },
+      "performance": { "label": "Interpretación", "value": 0 },
+      "persuasion": { "label": "Persuasión", "value": 1 },
+      "streetwise": { "label": "Callejeo", "value": 1 },
+      "subterfuge": { "label": "Subterfugio", "value": 2 },
+      "academics": { "label": "Academicismo", "value": 0 },
+      "awareness": { "label": "Consciencia", "value": 3 },
+      "finance": { "label": "Finanzas", "value": 0 },
+      "investigation": { "label": "Investigación", "value": 2 },
+      "medicine": { "label": "Medicina", "value": 0 },
+      "occult": { "label": "Ocultismo", "value": 0 },
+      "politics": { "label": "Política", "value": 0 },
+      "science": { "label": "Ciencia", "value": 0 },
+      "technology": { "label": "Tecnología", "value": 0 }
+    },
+    "disciplines": {
+      "obfuscate": {
+        "powers": [
+          {
+            "name": "silence_of_death",
+            "level": 1
+          },
+          {
+            "name": "unseen_passage",
+            "level": 2
+          }
+        ]
+      },
+      "celerity": {
+        "powers": [
+          {
+            "name": "rapid_reflexes",
+            "level": 1
+          },
+          {
+            "name": "fleetness",
+            "level": 2
+          }
+        ]
+      },
+      "blood_sorcery": {
+        "powers": [
+          {
+            "name": "corrosive_vitae",
+            "level": 1
+          }
+        ]
+      },
+      "rituals": {
+        "powers": [
+          { "name": "clinging_of_the_insect", "level": 1 },
+          { "name": "craft_bloodstone", "level": 1 }
+        ]
+      }
+    },
+    "biography": "Farid Asad es un guerrero sigiloso y decidido, marcado profundamente por su sentimiento de justicia y lealtad.  Criado en un entorno de opresión. Sus experiencias le han enseñado a actuar con precisión y disciplina, cualidades que ahora lo acompañan en su vida como vástago. Ha llegado recientemente a Madrid con la intención de apoyar a la Torre de Marfil en su lucha por el control y la estabilidad de la ciudad, que actualmente parece estar repleta de amenazas. Devoto de los principios de los Banu Haqim, Farid pretende enfrentar a los enemigos de la Camarilla con el objetivo de preservar la justicia y la supervivencia de los suyos."
+  },
+
+  {
+    "name": "Fernando",
+    "id": "fernando",
+    "clan": "nosferatu",
+    "predatorType": "Gato Callejero",
+    "generation": 12,
+    "humanity": 6,
+    "attributes": {
+      "strength": { "label": "Fuerza", "value": 2 },
+      "dexerity": { "label": "Destreza", "value": 4 },
+      "resistance": { "label": "Resistencia", "value": 3 },
+      "charisma": { "label": "Carisma", "value": 1 },
+      "manipulation": { "label": "Manipulación", "value": 2 },
+      "composture": { "label": "Compostura", "value": 2 },
+      "intelligence": { "label": "Inteligence", "value": 2 },
+      "wits": { "label": "Astucia", "value": 3 },
+      "resolution": { "label": "Resolución", "value": 3 }
+    },
+    "abilities": {
+      "athletics": { "label": "Atletismo", "value": 2 },
+      "brawl": { "label": "Pelea", "value": 2 },
+      "craft": { "label": "Artesanía", "value": 0 },
+      "driving": { "label": "Conducir", "value": 1 },
+      "firearms": { "label": "Armas de fuego", "value": 0 },
+      "larceny": { "label": "Latrocinio", "value": 1 },
+      "melee": { "label": "Pelea con armas", "value": 3 },
+      "stealth": { "label": "Sigilo", "value": 2 },
+      "survival": { "label": "Supervivencia", "value": 0 },
+      "animalKin": { "label": "Trato con animales", "value": 1 },
+      "etiquette": { "label": "Etiqueta", "value": 0 },
+      "insight": { "label": "Perspicacia", "value": 1 },
+      "intimidation": { "label": "Intimidación", "value": 1 },
+      "leadership": { "label": "Liderazgo", "value": 1 },
+      "performance": { "label": "Interpretación", "value": 2 },
+      "persuasion": { "label": "Persuasión", "value": 0 },
+      "streetwise": { "label": "Callejeo", "value": 2 },
+      "subterfuge": { "label": "Subterfugio", "value": 1 },
+      "academics": { "label": "Academicismo", "value": 0 },
+      "awareness": { "label": "Consciencia", "value": 3 },
+      "finance": { "label": "Finanzas", "value": 0 },
+      "investigation": { "label": "Investigación", "value": 2 },
+      "medicine": { "label": "Medicina", "value": 0 },
+      "occult": { "label": "Ocultismo", "value": 1 },
+      "politics": { "label": "Política", "value": 0 },
+      "science": { "label": "Ciencia", "value": 0 },
+      "technology": { "label": "Tecnología", "value": 3 }
+    },
+    "disciplines": {
+      "obfuscate": {
+        "powers": [
+          {
+            "name": "cloak_of_shadows",
+            "level": 1
+          },
+          {
+            "name": "unseen_passage",
+            "level": 2
+          },
+          {
+            "name": "ghost_in_the_machine",
+            "level": 3
+          }
+        ]
+      },
+      "potence": {
+        "powers": [
+          {
+            "name": "soaring_leap",
+            "level": 1
+          },
+          {
+            "name": "prowess",
+            "level": 2
+          }
+        ]
+      }
+    },
+    "biography": "Fernando, natural de Madrid, tuvo una infancia difícil en una familia disfuncional, lo que lo llevó a refugiarse en los videojuegos e internet, donde encontró su primer sentido de pertenencia. Ahora, como vástago del clan Nosferatu, vive en la soledad de las sombras, cómodo en su aislamiento. Es meticuloso, directo y eficiente, aunque con una actitud distante y desconfiada que limita sus relaciones cercanas, manteniendo siempre un muro emocional que le permite sobrevivir en un mundo de oscuridad y traición. Dedicado a su objetivo en las sombras, hasta que se ve forzado a unirse a una coterie en Madrid..."
+  },
+  {
+    "name": "Francisco Santos",
+    "id": "francisco",
+    "clan": "ventrue",
+    "predatorType": "Reina del ambiente",
+    "generation": 12,
+    "humanity": 6,
+    "attributes": {
+      "strength": { "label": "Fuerza", "value": 1 },
+      "dexerity": { "label": "Destreza", "value": 2 },
+      "resistance": { "label": "Resistencia", "value": 2 },
+      "charisma": { "label": "Carisma", "value": 4 },
+      "manipulation": { "label": "Manipulación", "value": 3 },
+      "composture": { "label": "Compostura", "value": 3 },
+      "intelligence": { "label": "Inteligence", "value": 2 },
+      "wits": { "label": "Astucia", "value": 2 },
+      "resolution": { "label": "Resolución", "value": 3 }
+    },
+    "abilities": {
+      "athletics": { "label": "Atletismo", "value": 2 },
+      "brawl": { "label": "Pelea", "value": 0 },
+      "craft": { "label": "Artesanía", "value": 0 },
+      "driving": { "label": "Conducir", "value": 0 },
+      "firearms": { "label": "Armas de fuego", "value": 1 },
+      "larceny": { "label": "Latrocinio", "value": 0 },
+      "melee": { "label": "Pelea con armas", "value": 0 },
+      "stealth": { "label": "Sigilo", "value": 1 },
+      "survival": { "label": "Supervivencia", "value": 0 },
+      "animalKin": { "label": "Trato con animales", "value": 0 },
+      "etiquette": { "label": "Etiqueta", "value": 2 },
+      "insight": { "label": "Perspicacia", "value": 3 },
+      "intimidation": { "label": "Intimidación", "value": 0 },
+      "leadership": { "label": "Liderazgo", "value": 3 },
+      "performance": { "label": "Interpretación", "value": 1 },
+      "persuasion": { "label": "Persuasión", "value": 3 },
+      "streetwise": { "label": "Callejeo", "value": 1 },
+      "subterfuge": { "label": "Subterfugio", "value": 0 },
+      "academics": { "label": "Academicismo", "value": 2 },
+      "awareness": { "label": "Consciencia", "value": 2 },
+      "finance": { "label": "Finanzas", "value": 1 },
+      "investigation": { "label": "Investigación", "value": 2 },
+      "medicine": { "label": "Medicina", "value": 0 },
+      "occult": { "label": "Ocultismo", "value": 1 },
+      "politics": { "label": "Política", "value": 2 },
+      "science": { "label": "Ciencia", "value": 0 },
+      "technology": { "label": "Tecnología", "value": 1 }
+    },
+    "disciplines": {
+      "presence": {
+        "powers": [
+          {
+            "name": "awe",
+            "level": 1
+          }
+        ]
+      },
+      "dominate": {
+        "powers": [
+          {
+            "name": "cloud_memory",
+            "level": 1
+          },
+          {
+            "name": "mesmerize",
+            "level": 2
+          },
+          {
+            "name": "forgetful_mind",
+            "level": 3
+          }
+        ]
+      },
+      "fortitude": {
+        "powers": [
+          {
+            "name": "resilience",
+            "level": 1
+          }
+        ]
+      }
+    },
+    "biography": "Es un hombre interesante, lleva esforzándose toda su vida por destacar y ser el centro de atención y la pulcritud en todo aquello que acomete, lo cual, hasta este punto, podría ser la descripción de cualquier ególatra empedernido, pero tiene algo en esa mirada que me gusta lo suficiente como para tenerlo en cuenta, y es su ambición, forma fría y letal de tratar a sus adversarios, ya sea en la política o en los negocios. <br /><br />Es justo lo que necesitamos ahora mismo, alguien que no tema arriesgarlo todo ni mancharse las manos, que encarne nuestros ideales y valores, por ganar lo que por sangre y derecho nos pertenece. Le mantendré informado de sus avances.<br /><br />Atentamente,<br />Catalina de Acevedo."
+  },
+  {
+    "name": "Minerva",
+    "id": "minerva",
+    "clan": "malkavian",
+    "predatorType": "Sandman",
+    "generation": 12,
+    "humanity": 6,
+    "attributes": {
+      "strength": { "label": "Fuerza", "value": 1 },
+      "dexerity": { "label": "Destreza", "value": 2 },
+      "resistance": { "label": "Resistencia", "value": 3 },
+      "charisma": { "label": "Carisma", "value": 2 },
+      "manipulation": { "label": "Manipulación", "value": 2 },
+      "composture": { "label": "Compostura", "value": 2 },
+      "intelligence": { "label": "Inteligence", "value": 3 },
+      "wits": { "label": "Astucia", "value": 4 },
+      "resolution": { "label": "Resolución", "value": 3 }
+    },
+    "abilities": {
+      "athletics": { "label": "Atletismo", "value": 1 },
+      "brawl": { "label": "Pelea", "value": 0 },
+      "craft": { "label": "Artesanía", "value": 0 },
+      "driving": { "label": "Conducir", "value": 0 },
+      "firearms": { "label": "Armas de fuego", "value": 0 },
+      "larceny": { "label": "Latrocinio", "value": 0 },
+      "melee": { "label": "Pelea con armas", "value": 1 },
+      "stealth": { "label": "Sigilo", "value": 3 },
+      "survival": { "label": "Supervivencia", "value": 1 },
+      "animalKin": { "label": "Trato con animales", "value": 0 },
+      "etiquette": { "label": "Etiqueta", "value": 0 },
+      "insight": { "label": "Perspicacia", "value": 3 },
+      "intimidation": { "label": "Intimidación", "value": 0 },
+      "leadership": { "label": "Liderazgo", "value": 0 },
+      "performance": { "label": "Interpretación", "value": 0 },
+      "persuasion": { "label": "Persuasión", "value": 0 },
+      "streetwise": { "label": "Callejeo", "value": 0 },
+      "subterfuge": { "label": "Subterfugio", "value": 1 },
+      "academics": { "label": "Academicismo", "value": 2 },
+      "awareness": { "label": "Consciencia", "value": 3 },
+      "finance": { "label": "Finanzas", "value": 0 },
+      "investigation": { "label": "Investigación", "value": 4 },
+      "medicine": { "label": "Medicina", "value": 2 },
+      "occult": { "label": "Ocultismo", "value": 2 },
+      "politics": { "label": "Política", "value": 0 },
+      "science": { "label": "Ciencia", "value": 0 },
+      "technology": { "label": "Tecnología", "value": 0 }
+    },
+    "disciplines": {
+      "obfuscate": {
+        "powers": [
+          {
+            "name": "cloak_of_shadows",
+            "level": 1
+          },
+          {
+            "name": "unseen_passage",
+            "level": 2
+          }
+        ]
+      },
+      "auspex": {
+        "powers": [
+          {
+            "name": "seen_the_unseen",
+            "level": 1
+          },
+          {
+            "name": "premonition",
+            "level": 2
+          },
+          {
+            "name": "share_the_senses",
+            "level": 3
+          }
+        ]
+        
+      }
+    },
+    "biography": "Nacida en Palermo, su padre Policia, su madre Pisquiatra, emigran a Madrid para el tratamiento de su hermana Isabella, la cual sufre una enfermedad mental grave. Una noche tras encontrar a su madre muerta por una sobredosis de barbitúricos, decide arrojarse por una azotea de un edificio de Madrid, pero alguien la agarra en el último momento. Minerva es escondida de otros vampiros, aislada, quien lo hizo...,  quería evitar que otros descubrieran su habilidad, tiene el Don de la clarividencia y las premoniciones. Tras tener una premonición donde se ve ardiendo en el fuego, se le muestra que su salvación es unirse a una coterie, donde tras dar de su sangre al clan Tremere,  consigue averiguar que pertenece a los Malkavian. Ahora con sus compañeros tiene una misión y temor a la vez, ocultar su poder, cuidar a su hermana y sobrevivir al mundo del cual fue ocultada durante 25 años."
+  }
+]
